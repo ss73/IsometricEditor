@@ -10,7 +10,8 @@ Tiles by Kenney:
 ![Isometric world](https://github.com/ss73/IsometricEditor/blob/master/screenshot.png?raw=true)
 
 ## How to run
-Install processing: https://processing.org/
-Clone repository and cd to IsometricEditor
-Run: `processing isoWorld.pde`
+
+- Install processing: https://processing.org/
+- Clone this repository and cd to IsometricEditor
+- Run: `processing isoWorld.pde`
  
