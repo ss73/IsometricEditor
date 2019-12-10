@@ -6,3 +6,6 @@ Tiles by Kenney:
 - https://kenney.nl/assets/isometric-city
 - https://kenney.nl/assets/3d-road-tiles
 
+# Example
+![Isometric world](https://github.com/ss73/IsometricEditor/blob/master/screenshot.png?raw=true)
+
